@@ -1,7 +1,10 @@
 Revision history for Perl extension MouseX::Object::Pluggable
 
+0.021 Thu Jan 22 04:42:22 2009
+	* fixed tests 
+
 0.02 Thu Jan 22 04:42:22 2009
-	* original version
+	* fixed module dependencies 
 
 0.01 Thu Jan 22 04:42:22 2009
 	* original version

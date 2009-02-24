@@ -2,7 +2,7 @@ package TestApp2;
 
 use strict;
 use warnings;
-use Moose;
+use Mouse;
 
 extends 'TestApp';
 

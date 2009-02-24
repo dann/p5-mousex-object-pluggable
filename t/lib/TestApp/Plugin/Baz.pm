@@ -2,7 +2,7 @@ package TestApp::Plugin::Baz;
 
 use strict;
 use warnings;
-use Moose::Role;
+use Mouse::Role;
 
 sub baz { 'plugin baz' }
 

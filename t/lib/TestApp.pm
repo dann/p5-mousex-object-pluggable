@@ -2,9 +2,9 @@ package TestApp;
 
 use strict;
 use warnings;
-use Moose;
+use Mouse;
 
-with 'MooseX::Object::Pluggable';
+with 'MouseX::Object::Pluggable';
 
 has bee => (is => 'rw', isa => 'Int', required => 1, default => '100');
 

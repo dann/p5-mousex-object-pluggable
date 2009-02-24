@@ -2,7 +2,7 @@ package TestApp2::Plugin::Foo;
 
 use strict;
 use warnings;
-use Moose::Role;
+use Mouse::Role;
 
 around foo => sub{ 'around foo 2' };
 

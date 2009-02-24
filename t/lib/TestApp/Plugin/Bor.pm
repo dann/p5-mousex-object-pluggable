@@ -2,7 +2,7 @@ package TestApp::Plugin::Bor;
 
 use strict;
 use warnings;
-use Moose::Role;
+use Mouse::Role;
 
 around bor => sub{ 'plugin bor' };
 

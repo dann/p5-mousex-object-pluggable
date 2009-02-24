@@ -1,6 +1,6 @@
 package MouseX::Object::Pluggable;
 use 5.00800;
-our $VERSION = '0.01';
+our $VERSION = '0.021';
 use Carp ();
 use Mouse::Role;
 use Module::Pluggable::Object;

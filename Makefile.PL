@@ -3,6 +3,7 @@ name 'MouseX-Object-Pluggable';
 all_from 'lib/MouseX/Object/Pluggable.pm';
 
 requires(
+    'Class::Method::Modifiers'  => '1.01',
     'Mouse'                     => '0.17',
     'Module::Pluggable::Object' => '3.6',
 );
